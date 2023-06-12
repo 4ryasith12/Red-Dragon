@@ -11,15 +11,24 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `💙𝙃𝙄𝙄𝙄𝙄𝙄 𝙄𝙈 𝘼𝙇𝙄𝙑𝙀 𝙉𝙊𝙒💙
+
+How are you ....✨
+
+Are you fine.....✨
+
+Please join my official whatsapp group 👇👇👇👇👇
+
+✅𝙈𝙍𝙔𝘼𝙎𝙄𝙏𝙃 𝘽𝙊𝙏 𝙂𝙍𝙊𝙐𝙋
+
+ *https://chat.whatsapp.com/BWBIkmBpMgbKDNbzyuxPfv*` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -29,34 +38,34 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94710643300'] // owner number
+global.ownername = "😎𝙈𝙍❯𝙔𝘼𝙎𝙄𝙏𝙃❤" // owner name
+global.ytname = "" // yasith hirushan
+global.socialm = "GitHub: https://wa.me/+94710643300" // github or insta name
+global.location = "sri lanka, kurunegala, kuliyapitiya" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://ibb.co/C2sCFXs` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+94710643300']
+global.ownertag = '+94710643300' //your tag number
+global.botname = '𝙈𝙍▁𝙔𝘼𝙎𝙄𝙏𝙃▁𝘽𝙊𝙏' //ur bot name
+global.packname = "𝙈𝙍 𝙔𝘼𝙎𝙄𝙏𝙃" // sticker packname
+global.author = "𝙈𝙍 𝙔𝘼𝙎𝙄𝙏𝙃" // sticker author
+global.dragonemoji = '💖' // Menu emoji
+global.footer = '😎𝙈𝙍❯𝙔𝘼𝙎𝙄𝙏𝙃❤' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94710643300'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
